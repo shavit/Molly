@@ -1,5 +1,7 @@
 # Eximage
 
+[![Build Status](https://travis-ci.org/shavit/Molly.svg?branch=master)](https://travis-ci.org/shavit/Molly)
+
 **TODO: Add description**
 
 ## Installation
